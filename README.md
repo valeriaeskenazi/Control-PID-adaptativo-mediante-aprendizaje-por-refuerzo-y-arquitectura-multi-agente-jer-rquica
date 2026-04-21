@@ -52,18 +52,15 @@ PID_AGENT/
     │   │   └── HeatExchanger/
     │   │       └── AC_hiperparametros_HeatExchanger_v3.ipynb
     │   ├── DQN/
-    │   │   ├── agent_ctrl_best_Test2.pt
-    │   │   ├── agent_ctrl_best.pt
-    │   │   ├── DQN_CTRL_Colab_Test2.ipynb
-    │   │   ├── DQN_CTRL_Colab.ipynb
-    │   │   ├── DQN_CTRL_Test2_graficos.ipynb
-    │   │   ├── sweep_DQN_colab_1.ipynb
-    │   │   └── sweep_DQN_Test_2_Colab.ipynb
+    │   │   ├── Tanque_Simple/
+    │   │   │   └── dqn_training_simple_tank
+    │   │   └── Reactor_CSTR/
+    │   │       ├── agent_ctrl_best_Test2.pt
+    │   │       ├── agent_ctrl_best.pt
+    │   │       └── DQN_CTRL_Test2_graficos.ipynb
     │   └── PPO/
     │       ├── agent_ctrl_best.pt
-    │       ├── PPO_CTRL_Colab_New_Run_graficos.ipynb
-    │       ├── PPO_CTRL_Colab_New_Run.ipynb
-    │       └── PPO_CTRL_Colab.ipynb
+    │       └── PPO_CTRL_Colab_New_Run_graficos.ipynb
     └── ORCH/
         ├── AC/
         │   ├── AC_ORCH_Colab_15000_PRUEBAS.ipynb
